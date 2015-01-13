@@ -1,0 +1,11 @@
+#--------------------
+# Top_alaphanumeric 
+#--------------------
+
+VHDL design that display a text and some symbols with different colors on Sharp LCD screen
+
+# Dependancies
+#--------------
++ Driver Sharp
+
+#EOF
